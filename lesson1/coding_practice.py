@@ -1,9 +1,13 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Oct  4 13:10:07 2019
-
-@author: 75253
-"""
+'''
+File Created: Friday, 4th October 2019
+Author: Neurone
+-----
+Last Modified: Saturday, 19th October 2019
+Modified By: Neurone
+-----
+Copyright: Arts of Neuron Maintenance
+'''
 
 from collections import Counter
 import random
